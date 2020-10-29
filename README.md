@@ -1,3 +1,3 @@
 # TestRepository
 This is a test repository, which will serve to be a skeleton for future repositories
-![alt text](https://github.com/bran214/TestRepository/ "TestRepository")
+![alt text](https://github.com/bran214/TestRepository/Images/Icon.png "TestRepository")
